@@ -24,6 +24,22 @@
       "license": "Community License",
       "keywords": ["memory", "context", "persistence", "session"],
       "category": "productivity"
+    },
+    {
+      "name": "supertool",
+      "source": {
+        "source": "github",
+        "repo": "Digital-Process-Tools/claude-supertool"
+      },
+      "description": "Batched file operations for autonomous Claude Code runs. Collapses N reads/greps/globs into one Bash round-trip — fewer output tokens, less cache growth, less wall time. Ships with an opt-in enforcement mode that blocks competing tools.",
+      "author": {
+        "name": "Digital Process Tools"
+      },
+      "homepage": "https://github.com/Digital-Process-Tools/claude-supertool",
+      "repository": "https://github.com/Digital-Process-Tools/claude-supertool",
+      "license": "Community License",
+      "keywords": ["batch", "round-trip", "tokens", "autonomous", "file-ops"],
+      "category": "productivity"
     }
   ]
 }
