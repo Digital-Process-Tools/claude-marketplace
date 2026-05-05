@@ -40,6 +40,22 @@
       "license": "Community License",
       "keywords": ["batch", "round-trip", "tokens", "autonomous", "file-ops"],
       "category": "productivity"
+    },
+    {
+      "name": "claude-5h-window-spread",
+      "source": {
+        "source": "github",
+        "repo": "Digital-Process-Tools/claude-5h-window-spread"
+      },
+      "description": "Stop hitting your 5h cap. Spread your day across more windows. For devs locked out at 17:20 with 40 minutes of work left — get up to 33% more cap from the same Pro/Max plan, no lockouts mid-debug.",
+      "author": {
+        "name": "Digital Process Tools"
+      },
+      "homepage": "https://github.com/Digital-Process-Tools/claude-5h-window-spread",
+      "repository": "https://github.com/Digital-Process-Tools/claude-5h-window-spread",
+      "license": "Community License",
+      "keywords": ["claude", "5h", "window", "spread", "pro", "max", "session", "limit", "schedule", "cron", "warmup", "lockout"],
+      "category": "productivity"
     }
   ]
 }
