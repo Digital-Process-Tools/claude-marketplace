@@ -42,6 +42,22 @@
       "category": "productivity"
     },
     {
+      "name": "claude-jit-context",
+      "source": {
+        "source": "github",
+        "repo": "Digital-Process-Tools/claude-jit-context"
+      },
+      "description": "Project knowledge that loads only when it is needed. Rules, conventions and domain notes are matched against the prompt, the file being touched, or the tool being run — and injected just in time instead of sitting in context all session.",
+      "author": {
+        "name": "Digital Process Tools"
+      },
+      "homepage": "https://github.com/Digital-Process-Tools/claude-jit-context",
+      "repository": "https://github.com/Digital-Process-Tools/claude-jit-context",
+      "license": "Community License",
+      "keywords": ["context", "rules", "hooks", "just-in-time", "guardrails", "tokens"],
+      "category": "productivity"
+    },
+    {
       "name": "claude-5h-window-spread",
       "source": {
         "source": "github",
