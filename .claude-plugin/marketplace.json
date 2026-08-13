@@ -58,6 +58,22 @@
       "category": "productivity"
     },
     {
+      "name": "oss",
+      "source": {
+        "source": "github",
+        "repo": "Digital-Process-Tools/claude-oss"
+      },
+      "description": "Run an open-source repo as its maintainer: triage the tracker, delegate the work, review hard, merge on green. One loop, one version, and per-repo differences in config instead of prose.",
+      "author": {
+        "name": "Digital Process Tools"
+      },
+      "homepage": "https://github.com/Digital-Process-Tools/claude-oss",
+      "repository": "https://github.com/Digital-Process-Tools/claude-oss",
+      "license": "Community License",
+      "keywords": ["open-source", "maintainer", "triage", "review", "release", "changelog"],
+      "category": "productivity"
+    },
+    {
       "name": "claude-5h-window-spread",
       "source": {
         "source": "github",

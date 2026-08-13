@@ -23,6 +23,7 @@ Then browse and install:
 /plugin install supertool
 /plugin install claude-jit-context
 /plugin install claude-5h-window-spread
+/plugin install oss
 ```
 
 ## Plugins available
@@ -33,6 +34,7 @@ Then browse and install:
 | [supertool](https://github.com/Digital-Process-Tools/claude-supertool) | Batched file operations — N reads/greps/globs in one round-trip, optional enforcement mode. |
 | [claude-jit-context](https://github.com/Digital-Process-Tools/claude-jit-context) | Project knowledge that loads only when it is needed — matched on the prompt, the file being touched, or the tool about to run. |
 | [claude-5h-window-spread](https://github.com/Digital-Process-Tools/claude-5h-window-spread) | Spread your Claude Pro/Max usage across more 5h windows. Up to 33% more effective cap. |
+| [oss](https://github.com/Digital-Process-Tools/claude-oss) | Run an open-source repo as its maintainer — triage, delegate, review hard, merge on green. Per-repo differences live in config, not prose. |
 
 ## Why a marketplace?
 
