@@ -74,6 +74,22 @@
       "category": "productivity"
     },
     {
+      "name": "swarm-builder",
+      "source": {
+        "source": "github",
+        "repo": "Digital-Process-Tools/claude-swarm-builder"
+      },
+      "description": "Declare a swarm of Claude Code agents once in swarm.json — who spawns whom, with what, what comes back, who may do what — then read it as a map and check it on every PR. Structure in JSON; behaviour stays in the agent MDs.",
+      "author": {
+        "name": "Digital Process Tools"
+      },
+      "homepage": "https://github.com/Digital-Process-Tools/claude-swarm-builder",
+      "repository": "https://github.com/Digital-Process-Tools/claude-swarm-builder",
+      "license": "Community License",
+      "keywords": ["agents", "subagents", "swarm", "orchestration", "lint", "spawn-graph"],
+      "category": "productivity"
+    },
+    {
       "name": "claude-5h-window-spread",
       "source": {
         "source": "github",
