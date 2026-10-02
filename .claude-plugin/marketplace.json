@@ -94,7 +94,8 @@
       "name": "claude-5h-window-spread",
       "source": {
         "source": "github",
-        "repo": "Digital-Process-Tools/claude-5h-window-spread"
+        "repo": "Digital-Process-Tools/claude-5h-window-spread",
+        "ref": "release"
       },
       "description": "Stop hitting your 5h cap. Spread your day across more windows. For devs locked out at 17:20 with 40 minutes of work left — get up to 33% more cap from the same Pro/Max plan, no lockouts mid-debug.",
       "author": {
