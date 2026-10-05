@@ -33,7 +33,8 @@
       "name": "supertool-cli",
       "source": {
         "source": "github",
-        "repo": "Digital-Process-Tools/claude-supertool"
+        "repo": "Digital-Process-Tools/claude-supertool",
+        "ref": "master"
       },
       "description": "Batched file operations for autonomous Claude Code runs. Collapses N reads/greps/globs into one Bash round-trip — fewer output tokens, less cache growth, less wall time. Ships with an opt-in enforcement mode that blocks competing tools.",
       "author": {
