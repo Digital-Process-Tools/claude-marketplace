@@ -8,6 +8,9 @@
   "metadata": {
     "description": "Claude Code plugins by Digital Process Tools — the team behind DVSI."
   },
+  "renames": {
+    "supertool": "supertool-cli"
+  },
   "plugins": [
     {
       "name": "remember",
@@ -27,7 +30,7 @@
       "category": "productivity"
     },
     {
-      "name": "supertool",
+      "name": "supertool-cli",
       "source": {
         "source": "github",
         "repo": "Digital-Process-Tools/claude-supertool"
